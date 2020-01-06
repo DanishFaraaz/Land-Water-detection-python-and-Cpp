@@ -1,0 +1,3 @@
+/home/atom/Desktop/Land-Water_detection_using_SURF/CMakeFiles/rebuild_cache.dir
+/home/atom/Desktop/Land-Water_detection_using_SURF/CMakeFiles/edit_cache.dir
+/home/atom/Desktop/Land-Water_detection_using_SURF/CMakeFiles/detection_cpp.dir
